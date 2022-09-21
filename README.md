@@ -1,7 +1,5 @@
-### Stranded in the void
-Imagine making a README but being too lazy to edit it<br>
-Oh well while I already am at it
+### Submachine enthusiast
 
-I mainly specialize in making discord bots, using python<br>
-Being an electronics student I've also learned the basics of C and C++<br>
-Soon™ I should be able to program microcontrollers and stuff (never done that before)<br>
+I specialize in making discord bots<br>
+I've acknowledged the basics of C and C++, but they are far from my language of choice<br>
+I'm interested in learning GO and Scala
