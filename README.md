@@ -1,5 +1,8 @@
 ### Submachine enthusiast
 
-I specialize in making discord bots<br>
-I've acknowledged the basics of C and C++, but they are far from my language of choice<br>
-I'm interested in learning GO and Scala
+• Current focus: SuperMechs themed discord bot<br>
+• self-taught; advanced in Python<br>
+• know basics of C/C++<br>
+• considering learning C#, Godot, Scala<br>
+• head full of ideas which rarely see daylight<br>
+• (the head rarely sees daylight too)
