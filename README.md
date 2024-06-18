@@ -1,7 +1,4 @@
-### Submachine enthusiast
-
-Selt-taught python developer<br>
-I work primarily on discord bots<br>
-Composition > inheritance<br>
-Structural subtyping is the best<br>
-OOP? More like procedural programming with dataclasses
+Selt-taught in python<br>
+Composition, dataclasses, interfaces, oh my<br>
+Your standard deviation computer nerd<br>
+I aced math until calculus and laziness shredded my passion
